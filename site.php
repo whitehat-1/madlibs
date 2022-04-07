@@ -49,13 +49,3 @@
 
 
 
-
-<!-- <form action ="site.php" method="get">
-
-   <input type="number" name ="num1">
-   <br>
-   <input type="number" name ="num2">
-   <input type="submit" value="submit"> 
-      </form>
-Answer:
-//  echo ($_GET["num1"] + $_GET["num2"]) -->
